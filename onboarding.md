@@ -6,6 +6,7 @@ You have read the [guidelines](README.md) & this is your mission :
 
 - [gravatar](http://fr.gravatar.com/) picture associated with your email
 - [GitHub account](https://github.com)
+- [Wercker account](http://wercker.com/)
 
 ## Access
 
@@ -15,6 +16,7 @@ Your first mission is to send an email to unlock your access. Here is an example
 > I am a teacher for lewagon #{city}.<br>
 > Email: #{teacher@lewagon.org}<br>
 > GitHub: #{username}<br>
+> Wercker: #{username}<br>
 > All the best,<br>
 > {name}
 
@@ -26,7 +28,7 @@ Your first mission is to send an email to unlock your access. Here is an example
 
 All the courses are here [karr.lewagon.org](http://karr.lewagon.org/). At the beginig of each day, you need to give your morning talk form here (on fullscreen).
 
-__protip:__ during live coding session avoid to use alias or shortcuts, you can show them but one step at a time, we don't want to loose our sudents.
+__protip:__ during live coding session avoid to use alias or shortcuts, you can show them but one step at a time, we don’t want to loose our sudents.
 
 When your morning course is over you can switch to kitt & introduce the exercices of the day.
 
@@ -34,7 +36,7 @@ When your morning course is over you can switch to kitt & introduce the exercice
 
 [kitt.lewagon.org](http://kitt.lewagon.org/) is our learning platform. Students work here.
 
-__protip:__ don't forget to turn on your status.
+__protip:__ don’t forget to turn on your status.
 
 ![Turn on your status](img/toggle-duty.gif)
 
