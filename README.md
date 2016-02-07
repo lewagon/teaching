@@ -74,9 +74,6 @@ After having shared a new workspace, you should go to `https://floobits.com/<USE
 
 That way, students will be able to hit `Collaborate / Request Permission to Edit` to edit the code.
 
+## Getting started!
 
-
-
-
-
-
+Now you are an amazing teacher and your first mission is to [complete the onboarding](onboarding.md)
